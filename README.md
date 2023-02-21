@@ -13,6 +13,9 @@ Once the application is running, you can use it to track your expenses. Here are
 # Adding an expense
 To add a new expense, click the "Add Expense" button on the main screen. You'll be taken to a form where you can enter the details of your expense, such as the amount, category, and date.
 
+# Screenshot
+![image](https://user-images.githubusercontent.com/88983923/220385166-a1dec2dd-296a-4068-8b8d-88ebf2f66668.png)
+
 # Contributing
 If you'd like to contribute to the expenses application, please follow these steps:
 
